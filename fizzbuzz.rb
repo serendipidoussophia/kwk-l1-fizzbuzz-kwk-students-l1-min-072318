@@ -1,2 +1,2 @@
-def fizzbuzz game
+def fizzbuzz_game
   
