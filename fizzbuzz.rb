@@ -5,6 +5,8 @@ def fizzbuzz_game(number)
     print "Fizz"
   elsif number % 5 == 0
     print "Buzz"
+  else
+    print "nil"
   end
 end
 
