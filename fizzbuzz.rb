@@ -10,4 +10,4 @@ def fizzbuzz_game(number)
   end
 end
 
-fizzbuzz_game(95)
+fizzbuzz_game(0)
