@@ -1,2 +1,2 @@
 def fizzbuzz_game(number)
-  if /5 && %==0
+  if number % 5 == 0 && %==0
