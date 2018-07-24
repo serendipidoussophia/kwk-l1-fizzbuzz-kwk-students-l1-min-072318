@@ -3,7 +3,7 @@ def fizzbuzz_game(number)
     print "Fizzbuzz"
     elsif number % 3 == 0
     print "Fizz"
-    elsif number % 5 == log1
+    elsif number % 5 == 0
     print "Buzz"
   end
 end
