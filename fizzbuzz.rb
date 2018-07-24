@@ -10,4 +10,4 @@ def fizzbuzz_game(number)
   end
 end
 
-fizzbuzz_game(3000)
+fizzbuzz_game(3000000000000000)
